@@ -1,4 +1,4 @@
-# numerical-metods-apk
+# numerical-methods-apk
 
 Application to solve numerical methods:
 
